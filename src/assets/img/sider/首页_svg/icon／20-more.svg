@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.337255 0 0 0 0 0.352941 0 0 0 0 0.411765 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1588.000000, -581.000000)">
+            <g id="流动性挖矿" transform="translate(530.000000, 549.000000)">
+                <g id="标题" transform="translate(28.000000, 28.000000)">
+                    <g id="返回" transform="translate(1030.000000, 4.000000)" filter="url(#filter-1)">
+                        <g transform="translate(7.000000, 7.000000) scale(-1, 1) translate(-7.000000, -7.000000) ">
+                            <rect id="矩形" fill-rule="nonzero" x="0" y="0" width="14" height="14"></rect>
+                            <path d="M9.77306641,13.1523438 C9.60168945,13.1523438 9.4303125,13.087416 9.29880273,12.9575605 L3.75262891,7.48045703 C3.62426367,7.35356836 3.55191211,7.18086523 3.55191211,7.00024609 C3.55191211,6.81962695 3.62426367,6.64692383 3.75262891,6.52003516 L9.29880273,1.04258984 C9.56396875,0.780554688 9.99144727,0.782865234 10.253291,1.04852344 C10.5152988,1.31383984 10.5126875,1.74099023 10.2473574,2.00301172 L5.18750586,7.00024609 L10.2473574,11.9971387 C10.5126738,12.2591602 10.5152988,12.6863105 10.253291,12.951627 C10.1213027,13.0854336 9.94727344,13.1523438 9.77306641,13.1523438 Z" id="路径" fill="#000000" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

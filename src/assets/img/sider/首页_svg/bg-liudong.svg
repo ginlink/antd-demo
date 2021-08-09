@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="534px" height="198px" viewBox="0 0 534 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bg-liudong</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EFF7FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="534" height="198" rx="20"></rect>
+        <linearGradient x1="50%" y1="25.961511%" x2="39.6114083%" y2="36.4694483%" id="linearGradient-4">
+            <stop stop-color="#EBF4FB" offset="0%"></stop>
+            <stop stop-color="#EDF6FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.0612841%" y1="48.0242946%" x2="11.1771162%" y2="51.3269352%" id="linearGradient-5">
+            <stop stop-color="#ECF4FC" offset="0%"></stop>
+            <stop stop-color="#DCECF9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.1181597%" y1="34.2673274%" x2="33.9101169%" y2="40.536081%" id="linearGradient-6">
+            <stop stop-color="#EDF0FF" offset="0%"></stop>
+            <stop stop-color="#BDE1FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1096.000000, -319.000000)">
+            <g id="bg-liudong" transform="translate(1096.000000, 319.000000)">
+                <g id="编组-7">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="矩形" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-4)" opacity="0.300000012" mask="url(#mask-3)" cx="341" cy="268.5" rx="354" ry="242.5"></ellipse>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-4)" opacity="0.400000006" mask="url(#mask-3)" cx="430" cy="285.5" rx="354" ry="242.5"></ellipse>
+                    <path d="M-23.860747,130.063976 C13.58228,112.53318 76.8652985,102.11594 111.667843,105.505987 C146.470387,108.896033 177.409957,107.344119 532.825944,210.088149 C550.485889,218.204841 368.917551,224.13171 -11.8790709,227.868756 C-44.828873,174.352767 -48.822765,141.751174 -23.860747,130.063976 Z" id="路径-9" fill="url(#linearGradient-5)" opacity="0.800000012" mask="url(#mask-3)"></path>
+                    <ellipse id="椭圆形" fill="url(#linearGradient-6)" opacity="0.200000003" mask="url(#mask-3)" cx="517.5" cy="320" rx="340.5" ry="191"></ellipse>
+                </g>
+                <g id="编组-11" transform="translate(35.305785, 14.342975)">
+                    <g id="编组-8" transform="translate(44.305310, 0.000000)" stroke="#FF9B39" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.07898014">
+                        <path d="M0,0.675658268 C0,74.9296798 60.1947779,135.124458 134.448799,135.124458 C142.703294,135.124458 150.605805,134.380583 158.449438,132.956213" id="路径"></path>
+                        <line x1="152.37634" y1="126.121504" x2="159.556477" y2="132.874007" id="路径-2" transform="translate(155.966408, 129.497756) rotate(-5.000000) translate(-155.966408, -129.497756) "></line>
+                        <line x1="152.983675" y1="132.84749" x2="160.163813" y2="140.031777" id="路径-2" transform="translate(156.573744, 136.439634) scale(1, -1) rotate(5.000000) translate(-156.573744, -136.439634) "></line>
+                    </g>
+                    <path d="M59.9009393,64.2591663 C64.2210724,61.5460592 69.92264,62.8488111 72.6357471,67.1689441 C83.2318926,84.0413918 97.7359011,98.2007223 114.860199,108.382714 C119.245056,110.989921 120.686127,116.658109 118.07892,121.042966 C115.471714,125.427823 109.803526,126.868894 105.418669,124.261687 C85.7750787,112.581741 69.1451598,96.3470209 56.9911616,76.9939741 C54.2780544,72.6738411 55.5808063,66.9722734 59.9009393,64.2591663 Z" id="路径" stroke="#5AD6AD" stroke-width="2.05265343" fill-opacity="0.4" fill="#5AD6AD" fill-rule="nonzero"></path>
+                    <g id="编组-10" transform="translate(87.957170, 65.932894)" stroke="#5AD6AD" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.05265343">
+                        <path d="M2.46087825,1.57837273 C5.50352273,8.76149811 14.2310957,18.7559972 22.6681571,21.2310932" id="路径"></path>
+                        <line x1="1.96410612" y1="0.499110978" x2="1.39797951" y2="4.91961651" id="路径-3" transform="translate(1.681043, 2.709364) rotate(14.000000) translate(-1.681043, -2.709364) "></line>
+                        <line x1="2.31941131" y1="1.17053958" x2="6.86632667" y2="2.025888" id="路径-3" transform="translate(4.592869, 1.598214) rotate(14.000000) translate(-4.592869, -1.598214) "></line>
+                        <line x1="23.2341314" y1="17.9474065" x2="22.6680048" y2="22.367912" id="路径-3" transform="translate(22.951068, 20.157659) rotate(-206.000000) translate(-22.951068, -20.157659) "></line>
+                        <line x1="19.1612556" y1="22.4528611" x2="23.708171" y2="23.3082095" id="路径-3" transform="translate(21.434713, 22.880535) rotate(-206.000000) translate(-21.434713, -22.880535) "></line>
+                    </g>
+                    <text id="Amount-Token-B" transform="translate(11.013163, 66.368466) rotate(-90.000000) translate(-11.013163, -66.368466) " font-family="PingFangSC-Medium, PingFang SC" font-size="15.446281" font-weight="400" fill="#121C41">
+                        <tspan x="-49.7287044" y="71.8684661">Amount Token B</tspan>
+                    </text>
+                    <text id="Amount-Token-A" transform="translate(105.086198, 156.255759) rotate(-360.000000) translate(-105.086198, -156.255759) " font-family="PingFangSC-Medium, PingFang SC" font-size="15.446281" font-weight="400" fill="#121C41">
+                        <tspan x="44.5451321" y="161.755759">Amount Token A</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

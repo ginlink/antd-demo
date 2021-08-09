@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>切片</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1511.000000, -643.000000)" fill-rule="nonzero">
+            <g id="流动性挖矿" transform="translate(530.000000, 549.000000)">
+                <g id="ka" transform="translate(928.000000, 74.000000)">
+                    <g id="编组-4" transform="translate(35.000000, 20.000000)">
+                        <g id="ETH-(1)" transform="translate(18.000000, 0.000000)">
+                            <path d="M0,13 C0,20.1797556 5.82024445,26 13,26 C20.1797556,26 26,20.1797556 26,13 C26,5.82024445 20.1797556,0 13,0 C5.82024445,0 0,5.82024445 0,13 Z" id="路径" fill="#627EEA"></path>
+                            <g id="编组" transform="translate(7.090909, 3.545455)" fill="#FFFFFF">
+                                <polygon id="路径" fill-opacity="0.602" points="6.0918 3.25396276e-14 6.0918 7.20633334 12.1833111 9.92882221"></polygon>
+                                <polygon id="路径" points="6.0918 -3.3589293e-14 -9.13208902e-14 9.92882221 6.0918 7.20748889"></polygon>
+                                <polygon id="路径" fill-opacity="0.602" points="6.0918 14.599 6.0918 19.4956667 12.1876444 11.063"></polygon>
+                                <polygon id="路径" points="6.0918 19.4956667 6.0918 14.599 -3.15949287e-13 11.0615556 6.09208889 19.4945111"></polygon>
+                                <polygon id="路径" fill-opacity="0.2" points="6.0918 13.4659778 12.1833111 9.92882221 6.0918 7.20864445"></polygon>
+                                <polygon id="路径" fill-opacity="0.602" points="0.000288894531 9.92882221 6.0918 13.4659778 6.0918 7.20864445 -9.13208902e-14 9.92766666"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
